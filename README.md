@@ -1,1 +1,1 @@
-<h1>LIVETuto - A live streaming platform</h1>
+<h1>LIVETuto - A live streaming platform...</h1>
